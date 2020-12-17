@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bgdyl\\Desktop\\Personal Projects\\Survival-Unreal-Game\\SurvivalGameContent\\Source\\SurvivalGameContent\\SurvivalGameContent.Build.cs",
+		"C:\\Users\\bgdyl\\Desktop\\Personal Projects\\Survival-Unreal-Game\\SurvivalGameContent\\Source\\SurvivalGameContent.Target.cs",
+		"C:\\Users\\bgdyl\\Desktop\\Personal Projects\\Survival-Unreal-Game\\SurvivalGameContent\\Source\\SurvivalGameContentEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}

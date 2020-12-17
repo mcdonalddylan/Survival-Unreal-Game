@@ -1,0 +1,2 @@
+C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\Definitions.SurvivalGameContent.h
+C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Source\SurvivalGameContent\SurvivalGameContent.h

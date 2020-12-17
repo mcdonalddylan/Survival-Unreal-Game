@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SurvivalGameContent",
+			"Path": "C:\\Users\\bgdyl\\Desktop\\Personal Projects\\Survival-Unreal-Game\\SurvivalGameContent\\Source\\SurvivalGameContent.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SurvivalGameContentEditor",
+			"Path": "C:\\Users\\bgdyl\\Desktop\\Personal Projects\\Survival-Unreal-Game\\SurvivalGameContent\\Source\\SurvivalGameContentEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

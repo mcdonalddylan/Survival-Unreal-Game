@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SurvivalGameContent.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\SurvivalGameContentEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\SurvivalGameContent.cpp.obj"
+"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\SurvivalGameContentCharacter.cpp.obj"
+"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\SurvivalGameContentGameMode.cpp.obj"
+"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\SurvivalGameContent.init.gen.cpp.obj"
+"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\SurvivalGameContentCharacter.gen.cpp.obj"
+"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\SurvivalGameContentGameMode.gen.cpp.obj"
+"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\Default.rc2.res"
+/OUT:"C:\Users\bgdyl\Desktop\Personal Projects\Survival-Unreal-Game\SurvivalGameContent\Intermediate\Build\Win64\UE4Editor\Development\SurvivalGameContent\UE4Editor-SurvivalGameContent.lib"
+/INCLUDE:IMPLEMENT_MODULE_SurvivalGameContent

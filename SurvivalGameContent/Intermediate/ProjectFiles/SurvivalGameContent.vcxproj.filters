@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SurvivalGameContent.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{46CE17BB-1FCA-449F-A3C5-A43F9CA9C1D8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SurvivalGameContent.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SurvivalGameContentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1D4568C7-CD6B-4BE4-8BEE-EB530A68C2DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SurvivalGameContent">
+      <UniqueIdentifier>{53E24189-EA65-46BE-9224-9AC7F0A83398}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SurvivalGameContent\SurvivalGameContent.Build.cs">
+      <Filter>Source\SurvivalGameContent</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SurvivalGameContent\SurvivalGameContent.cpp">
+      <Filter>Source\SurvivalGameContent</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalGameContent\SurvivalGameContent.h">
+      <Filter>Source\SurvivalGameContent</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalGameContent\SurvivalGameContentCharacter.cpp">
+      <Filter>Source\SurvivalGameContent</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalGameContent\SurvivalGameContentCharacter.h">
+      <Filter>Source\SurvivalGameContent</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SurvivalGameContent\SurvivalGameContentGameMode.cpp">
+      <Filter>Source\SurvivalGameContent</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SurvivalGameContent\SurvivalGameContentGameMode.h">
+      <Filter>Source\SurvivalGameContent</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
